@@ -10,18 +10,18 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Bianca Toller
-  pic: 0
-  position: Lead Developer
+  pic: https://avatars.githubusercontent.com/u/115846023?v=4
+  position: Desenvolvedora Front End
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/bianca-toller/
 
 - name: FabioHCNobre
-  pic: 0
+  pic: https://avatars.githubusercontent.com/u/22354660?v=4
   position: Desenvolvedor
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/fabiohcnobre/
 
 - name: Gustavo Bione
   pic: 0
@@ -31,11 +31,11 @@ people:
       url: #
 
 - name: Jonatas Souza
-  pic: 0
-  position: Negocio
+  pic: https://avatars.githubusercontent.com/u/18123017?v=4
+  position: Analista de suporte na Empiricus
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jonatas-cardoso/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
