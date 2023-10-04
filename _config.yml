@@ -37,14 +37,6 @@ people:
     - title: linkedin
       url: #
 
-
-- name: Rodrigo Rios
-  pic: 0
-  position: Lead Developer
-  social:
-    - title: linkedin
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
