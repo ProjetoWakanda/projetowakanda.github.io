@@ -24,11 +24,12 @@ people:
       url: https://www.linkedin.com/in/fabiohcnobre/
 
 - name: Gustavo Bione
-  pic: 0
-  position: Lead Developer
+  pic: https://avatars.githubusercontent.com/u/110001370?v=4
+  position: UI/UX Design
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/gustavo-bione-010194218/
+
 
 - name: Jonatas Souza
   pic: https://avatars.githubusercontent.com/u/18123017
