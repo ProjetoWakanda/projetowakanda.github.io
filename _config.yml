@@ -2,9 +2,8 @@ url: https://projetowakanda.github.io
 baseurl: 
 
 # Site settings
-title: Wakanda Project 
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Wakanda Project  
+description: "A AQUA ALERT é uma startup dinâmica e com visão de futuro com a missão de tornar a vida urbana mais segura e resiliente. Com a inovação em nossa essência, temos o orgulho de apresentar nosso projeto inaugural, o Projeto de Monitoramento de Chuva em Cidade Inteligente. Como empresa emergente, somos movidos por um compromisso apaixonado de enfrentar um dos desafios mais prementes enfrentados pelas pequenas áreas urbanas: o risco de inundações devido a padrões de precipitação imprevisíveis.."
 
 
 # Team names, titles and social links
@@ -42,11 +41,6 @@ people:
 social:
   - title: github
     url: http://github.com/projetowakanda
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-#  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
